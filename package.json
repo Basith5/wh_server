@@ -1,0 +1,22 @@
+{
+  "name": "wh_server",
+  "version": "1.0.0",
+  "description": "warehouse inventory storage web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Basith5/wh_server.git"
+  },
+  "keywords": [
+    "warehouse"
+  ],
+  "author": "BASITH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Basith5/wh_server/issues"
+  },
+  "homepage": "https://github.com/Basith5/wh_server#readme"
+}
